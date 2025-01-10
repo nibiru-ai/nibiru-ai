@@ -1,35 +1,6 @@
 - 👋 Hi, I’m @nibiru-ai
 
-
-	</a>
-	<br>
-	<br>
-	<br>
-	<hr>
-	<p>
-		<p>
-			<sup>
-				<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
-			</sup>
-		</p>
-		<sup>Special thanks to:</sup>
-		<br>
-		<br>
-		<a href="https://nitric.io/?utm_campaign=github_repo&utm_medium=referral&utm_content=sindresorhus&utm_source=github">
-			<div>
-				<img width="230" src="https://sindresorhus.com/assets/thanks/nitric-logo.svg" alt="nitric logo">
-			</div>
-			<b>Effortless backends with infrastructure from code</b>
-			<div>
-				<sup>An open-source framework that supports any programming language, cloud provider, or deployment automation tool.</sup>
-			</div>
-		</a>
-		<br>
-	</p>
-	<hr>
-	<br>
-	<br>
-</div>
+![5304e750ef33df0060f2e2bc6b65e95](https://github.com/user-attachments/assets/7c748895-c809-4b2c-9532-8d00d90ae601)
 
 ## Contents
 
